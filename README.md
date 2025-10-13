@@ -34,7 +34,7 @@ Shopping list & e-commerce prototype with **React Native**.
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliacardoso-dev)
+[![LinkedIn](in/j%C3%BAlia-cardoso-56959b201)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/juliacardoso.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/cardos0s)
 
