@@ -1,7 +1,4 @@
- <!-- Banner opcional -->
-<p align="center">
-  <img src="https://github.com/cardos0s/juliacardoso/assets/banner.png" alt="Córtex Tech Banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm Júlia Cardoso</h1>
 
