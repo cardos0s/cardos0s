@@ -38,7 +38,7 @@ API-first design • Sistemas orientados a eventos • Liderança técnica end-t
 ### 🚀 Tech Stack & Proven Impact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,docker,kubernetes,aws,postgres&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,python,nextjs,tailwind,html,css,docker,kubernetes,aws,postgres,git,figma,postman&perline=8" />
 </p>
 
 <details>
