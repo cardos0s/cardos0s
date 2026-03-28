@@ -109,30 +109,22 @@ Performance Engineering  │  Caching Strategies      │  Observability
 
 ---
 
-### 📊 Engineering Activity & Code Insights
-
 <p align="center">
-  <b>⚡ Consistência • 📈 Evolução contínua • 🧠 Engenharia orientada a performance</b>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cardos0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true&custom_title=⚡%20Engineering%20Output" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cardos0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="170px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardos0s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&custom_title=🧠%20Tech%20Stack%20Distribution" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardos0s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170px" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardos0s&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D4FF&currStreakLabel=FFFFFF" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardos0s&theme=tokyonight&hide_border=true&background=0D1117" height="170px" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardos0s&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=00D4FF&point=FFFFFF" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardos0s&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
 </p>
 
 ---
@@ -140,7 +132,3 @@ Performance Engineering  │  Caching Strategies      │  Observability
 <p align="center">
   <b>💻 Code is not about quantity — it's about impact, performance and real-world execution.</b>
 </p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D4FF&height=100&section=footer"/>
