@@ -35,58 +35,63 @@ API-first design • Sistemas orientados a eventos • Liderança técnica end-t
 
 ---
 
-### Tech Stack & Proven Impact
+### 🚀 Tech Stack & Proven Impact
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,docker,kubernetes,aws,postgres&perline=6" />
 </p>
 
 <details>
-<summary><b>Performance, Scale & Metrics</b></summary>
+<summary><b>📊 Performance, Scale & Metrics</b></summary>
 
 <br/>
 
-### Backend & APIs
-- APIs em **ASP.NET Core (.NET 10)** com foco em baixa latência  
-- Redução de tempo de resposta através de otimizações e caching  
-- Arquitetura escalável baseada em Clean Architecture + CQRS  
+### ⚙️ Backend & APIs
+- ⚡ APIs em **ASP.NET Core (.NET 10)** com foco em **baixa latência**
+- 🚀 Otimização de tempo de resposta (caching, tuning, redução de overhead)
+- 🧠 Arquitetura escalável com **Clean Architecture + CQRS**
+- 🔐 Autenticação robusta (JWT, controle de acesso)
 
 ---
 
-### Performance & Optimization
-- Redução significativa de gargalos em aplicações mobile e backend  
-- Otimização de rendering e processamento em cenários críticos  
-- Melhoria de responsividade e experiência do usuário  
+### 🧠 Performance & Optimization
+- 🔥 Redução de gargalos em aplicações mobile e backend
+- 🎯 Otimização de rendering e processamento em cenários críticos
+- ⚡ Melhoria de responsividade e UX sob carga
+- 🧵 Controle de concorrência e eficiência de recursos
 
 ---
 
-### Mobile Systems
-- Apps com arquitetura offline-first utilizados em produção  
-- Redução de travamentos e melhoria de fluidez de interface  
-- Sincronização eficiente mesmo em redes instáveis  
+### 📱 Mobile Systems (Core Strength)
+- 📡 Arquitetura **offline-first** em produção
+- 🔄 Sincronização resiliente (retry, fallback, consistência eventual)
+- 🧵 Otimização de UI thread e uso de memória
+- 📉 Redução de travamentos (ANR) e melhoria de fluidez
 
 ---
 
-### Cloud & Infrastructure
-- Deploy automatizado com CI/CD  
-- Containerização e orquestração com Kubernetes  
-- Monitoramento e observabilidade em produção  
+### ☁️ Cloud & Infrastructure
+- 🚀 CI/CD automatizado (build, test, deploy)
+- 📦 Containerização com Docker + Kubernetes
+- 📊 Observabilidade: logging, métricas, tracing
+- 🌍 Deploy e operação em AWS
 
 ---
 
-### Business Impact
-- Sistemas com usuários reais e transações financeiras ativas  
-- Integração com Stripe Checkout em ambiente produtivo  
-- Produtos que geram receita recorrente  
+### 💰 Business Impact
+- 💳 Sistemas com **pagamentos reais (Stripe)**
+- 📈 Produtos com receita recorrente
+- 👥 Usuários ativos em produção
+- ⚙️ Integrações críticas funcionando em escala
 
 ---
 
-### Key Indicators (Engineering Focus)
-- ↓ Latência em operações críticas  
-- ↑ Performance de rendering em mobile  
-- ↓ Falhas em ambientes offline  
-- ↑ Confiabilidade de sincronização de dados  
-- ↑ Conversão com integração de pagamentos  
+### 📊 Key Indicators (Engineering Focus)
+- 📉 ↓ Latência em operações críticas  
+- 📈 ↑ Performance de rendering mobile  
+- 🛡️ ↓ Falhas em ambientes offline  
+- 🔄 ↑ Confiabilidade de sincronização  
+- 💰 ↑ Conversão com pagamentos  
 
 </details>
 ---
