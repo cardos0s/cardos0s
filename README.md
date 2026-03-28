@@ -14,13 +14,24 @@
 
 ### Sobre mim
 
-Engenheira de Software Senior com experiencia entregando produtos SaaS do zero a producao — do design de arquitetura e APIs ate integracao de pagamentos e deploy. Especialista no ecossistema **.NET** com atuacao full-stack: backend (ASP.NET Core), frontend (Blazor WASM, React, Next.js), mobile (**.NET MAUI**, **React Native**) e **Inteligencia Artificial** (ML.NET, visao computacional).
 
-Construo produtos que geram receita, nao apenas demos. Meus projetos recentes incluem uma plataforma SaaS de contratos com Stripe Checkout e um e-commerce de camisas de futebol — ambos em producao com usuarios e pagamentos reais.
+Engenheira de Software Sênior atuando em nível de Tech Lead, especializada em arquitetura de sistemas distribuídos e no desenvolvimento de aplicações mobile e SaaS de alta performance em produção.
 
-Fundadora da **Cortex Tech** — ecossistema que combina IA, acessibilidade e tecnologia.
+Tenho experiência comprovada liderando a construção de soluções end-to-end — da definição arquitetural à operação em cloud, com foco em escalabilidade, baixa latência, resiliência e geração direta de receita. Minha atuação vai além da implementação: tomo decisões críticas de engenharia, estruturo sistemas sustentáveis e elevo o nível técnico dos produtos e times. Possuo forte especialização em **engenharia mobile cross-platform**, com foco em **.NET MAUI** e **React Native**, construindo aplicações robustas, performáticas e resilientes para cenários reais, incluindo arquiteturas **offline-first**, sincronização eficiente de dados, otimização de uso de memória e fluidez de UI mesmo sob alta carga.
 
-**Especialidades:** arquitetura distribuida, clean architecture, integracoes enterprise (Stripe, Supabase), cloud/Kubernetes, IA/ML, visao computacional, e lideranca tecnica de projetos end-to-end.
+Especialista no ecossistema **.NET**, com domínio em backend (**ASP.NET Core**) e arquiteturas modernas (Clean Architecture, CQRS, DDD), além de atuação full-stack com **Blazor WASM, React e Next.js**. Atuo também na interseção entre software e **Inteligência Artificial**, aplicando **ML.NET** e visão computacional em soluções práticas e escaláveis. Construo sistemas que performam sob carga, escalam com previsibilidade e sustentam crescimento de negócio — do backend ao mobile.
+
+Fundadora da **Cortex Tech**, um ecossistema focado em inteligência artificial, acessibilidade e inovação tecnológica, com visão de impacto real.
+
+---
+
+**Especialidades:**
+
+Mobile de alta performance (.NET MAUI, React Native) • Arquitetura offline-first • Sincronização de dados  
+Arquitetura de alta performance • Sistemas distribuídos • Clean Architecture • CQRS • DDD  
+Cloud & Kubernetes • Engenharia orientada a performance • Observabilidade  
+Integrações críticas (Stripe, Supabase) • IA aplicada (ML.NET, Computer Vision)  
+API-first design • Sistemas orientados a eventos • Liderança técnica end-to-end
 
 ---
 
