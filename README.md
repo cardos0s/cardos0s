@@ -35,56 +35,60 @@ API-first design • Sistemas orientados a eventos • Liderança técnica end-t
 
 ---
 
-### Tech Stack
+### Tech Stack & Proven Impact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,python,nextjs,tailwind,html,css,docker,kubernetes,aws,postgres,git,figma,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,docker,kubernetes,aws,postgres&perline=6" />
 </p>
 
 <details>
-<summary><b>Detalhes por area</b></summary>
+<summary><b>Performance, Scale & Metrics</b></summary>
 
 <br/>
 
-**Backend & APIs**
-<br/>
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+### Backend & APIs
+- APIs em **ASP.NET Core (.NET 10)** com foco em baixa latência  
+- Redução de tempo de resposta através de otimizações e caching  
+- Arquitetura escalável baseada em Clean Architecture + CQRS  
 
-**Frontend**
-<br/>
-![Blazor](https://img.shields.io/badge/Blazor_WASM-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+---
 
-**Mobile**
-<br/>
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+### Performance & Optimization
+- Redução significativa de gargalos em aplicações mobile e backend  
+- Otimização de rendering e processamento em cenários críticos  
+- Melhoria de responsividade e experiência do usuário  
 
-**IA & Machine Learning**
-<br/>
-![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square)
+---
 
-**Cloud & DevOps**
-<br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+### Mobile Systems
+- Apps com arquitetura offline-first utilizados em produção  
+- Redução de travamentos e melhoria de fluidez de interface  
+- Sincronização eficiente mesmo em redes instáveis  
+
+---
+
+### Cloud & Infrastructure
+- Deploy automatizado com CI/CD  
+- Containerização e orquestração com Kubernetes  
+- Monitoramento e observabilidade em produção  
+
+---
+
+### Business Impact
+- Sistemas com usuários reais e transações financeiras ativas  
+- Integração com Stripe Checkout em ambiente produtivo  
+- Produtos que geram receita recorrente  
+
+---
+
+### Key Indicators (Engineering Focus)
+- ↓ Latência em operações críticas  
+- ↑ Performance de rendering em mobile  
+- ↓ Falhas em ambientes offline  
+- ↑ Confiabilidade de sincronização de dados  
+- ↑ Conversão com integração de pagamentos  
 
 </details>
-
 ---
 
 ### Projetos em Destaque
