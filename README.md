@@ -96,126 +96,49 @@ API-first design • Sistemas orientados a eventos • Liderança técnica end-t
 </details>
 ---
 
-### Projetos em Destaque
+### Architecture & Engineering Principles
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">ContratoExpress V2</h3>
-      <p align="center">
-        <a href="https://github.com/cardos0s/ContratoExpressV2">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p><b>SaaS em producao</b> — Gerador de contratos profissionais com billing por creditos, Stripe Checkout, JWT (ES256) e Row-Level Security. Pagamentos reais em BRL.</p>
-      <p><code>.NET 10</code> <code>Blazor WASM</code> <code>Stripe</code> <code>Supabase</code> <code>PostgreSQL</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">NeuroMind V2</h3>
-      <p align="center">
-        <a href="https://github.com/cardos0s/NeuroMindV2">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p><b>Neurotecnologia + IA</b> — Plataforma de comunicacao acessivel com inteligencia artificial para pessoas com deficiencia.</p>
-      <p><code>.NET</code> <code>AI/ML</code> <code>PostgreSQL</code> <code>React</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Mouse Ocular</h3>
-      <p align="center">
-        <a href="https://github.com/cardos0s/mouse-ocular">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p><b>Visao Computacional</b> — Controle do mouse atraves do rastreamento ocular usando Python e OpenCV.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>Computer Vision</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">CryptoTrend Predictor</h3>
-      <p align="center">
-        <a href="https://github.com/cardos0s/CryptoTrendPredictor">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p><b>Machine Learning</b> — Predicao de tendencias de criptomoedas com modelos de ML e analise de dados em tempo real.</p>
-      <p><code>C#</code> <code>ML.NET</code> <code>REST API</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">CosmosApp</h3>
-      <p align="center">
-        <a href="https://github.com/cardos0s/CosmosApp">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p><b>Mobile</b> — Aplicativo cross-platform construido com .NET MAUI e arquitetura MVVM.</p>
-      <p><code>.NET MAUI</code> <code>C#</code> <code>MVVM</code> <code>XAML</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Genova AI + API</h3>
-      <p align="center">
-        <a href="https://github.com/cardos0s/GenovaAPI">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p><b>IA & Cripto</b> — Engine de analise de criptomoedas com forecasting inteligente e API REST.</p>
-      <p><code>C#</code> <code>ML.NET</code> <code>REST API</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">IBuy</h3>
-      <p align="center">
-        <a href="https://github.com/cardos0s/IBuy">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p><b>React Native</b> — Lista de compras inteligente e prototipo de marketplace mobile.</p>
-      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">K8s Lab</h3>
-      <p align="center">
-        <a href="https://github.com/cardos0s/k8s-lab">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p><b>Cloud & DevOps</b> — Laboratorio de estudos e praticas com Kubernetes, containers e orquestracao.</p>
-      <p><code>Kubernetes</code> <code>Docker</code> <code>DevOps</code></p>
-    </td>
-  </tr>
-</table>
+```text
+Distributed Systems      │  Clean Architecture      │  Domain-Driven Design
+API-First Design         │  Event-Driven Workflows  │  Scalable System Design
+Authentication & Security│  JWT (ES256)             │  Row-Level Security
+Mobile Architecture      │  MVVM                    │  Offline-First Systems
+Cloud & Delivery         │  Docker / Kubernetes     │  CI/CD Pipelines
+Payments & Integrations  │  Webhooks                │  Credit-Based Billing
+Performance Engineering  │  Caching Strategies      │  Observability
 
 ---
 
-### Arquitetura & Padroes
+### 📊 Engineering Activity & Code Insights
 
-```
-Clean Architecture    │  Service Layer Pattern   │  Dependency Injection
-JWT Auth (ES256)      │  Row-Level Security      │  Webhook-driven integrations
-MVVM (Mobile)         │  Repository Pattern      │  Credit-based billing systems
-Docker & K8s          │  CI/CD pipelines         │  API-first design
-CQRS-lite             │  Event-driven            │  Microservices
-```
+<p align="center">
+  <b>⚡ Consistência • 📈 Evolução contínua • 🧠 Engenharia orientada a performance</b>
+</p>
 
 ---
 
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cardos0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardos0s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cardos0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true&custom_title=⚡%20Engineering%20Output" height="170px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardos0s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&custom_title=🧠%20Tech%20Stack%20Distribution" height="170px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardos0s&theme=tokyonight&hide_border=true&background=0D1117" height="170px" />
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardos0s&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardos0s&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D4FF&currStreakLabel=FFFFFF" height="170px" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardos0s&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=00D4FF&point=FFFFFF" width="95%"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code is not about quantity — it's about impact, performance and real-world execution.</b>
 </p>
 
 ---
