@@ -12,106 +12,90 @@
 
 ---
 
-### Sobre mim
+### About me
 
+Senior Software Engineer operating at Tech Lead level, specialized in distributed systems architecture and high-performance mobile & SaaS applications in production.
 
-Engenheira de Software Sênior atuando em nível de Tech Lead, especializada em arquitetura de sistemas distribuídos e no desenvolvimento de aplicações mobile e SaaS de alta performance em produção.
+Proven track record leading end-to-end solution delivery — from architectural decisions to cloud operations — focused on scalability, low latency, resilience, and direct revenue generation. My role extends beyond implementation: I drive critical engineering decisions, design sustainable systems, and raise the technical bar across products and teams.
 
-Tenho experiência comprovada liderando a construção de soluções end-to-end — da definição arquitetural à operação em cloud, com foco em escalabilidade, baixa latência, resiliência e geração direta de receita. Minha atuação vai além da implementação: tomo decisões críticas de engenharia, estruturo sistemas sustentáveis e elevo o nível técnico dos produtos e times. Possuo forte especialização em **engenharia mobile cross-platform**, com foco em **.NET MAUI** e **React Native**, construindo aplicações robustas, performáticas e resilientes para cenários reais, incluindo arquiteturas **offline-first**, sincronização eficiente de dados, otimização de uso de memória e fluidez de UI mesmo sob alta carga.
+Strong expertise in **cross-platform mobile engineering** with **.NET MAUI** and **React Native**, building robust, performant applications for real-world scenarios including **offline-first architectures**, efficient data synchronization, memory optimization, and smooth UI under heavy load.
 
-Especialista no ecossistema **.NET**, com domínio em backend (**ASP.NET Core**) e arquiteturas modernas (Clean Architecture, CQRS, DDD), além de atuação full-stack com **Blazor WASM, React e Next.js**. Atuo também na interseção entre software e **Inteligência Artificial**, aplicando **ML.NET** e visão computacional em soluções práticas e escaláveis. Construo sistemas que performam sob carga, escalam com previsibilidade e sustentam crescimento de negócio — do backend ao mobile.
+Specialist in the **.NET ecosystem** with deep backend skills (**ASP.NET Core**) and modern architecture patterns (Clean Architecture, CQRS, DDD), plus full-stack delivery with **Blazor WASM, React, and Next.js**. Also working at the intersection of software and **Artificial Intelligence**, applying **ML.NET** and computer vision to practical, scalable solutions.
 
-Fundadora da **Cortex Tech**, um ecossistema focado em inteligência artificial, acessibilidade e inovação tecnológica, com visão de impacto real.
-
----
-
-**Especialidades:**
-
-Mobile de alta performance (.NET MAUI, React Native) • Arquitetura offline-first • Sincronização de dados  
-Arquitetura de alta performance • Sistemas distribuídos • Clean Architecture • CQRS • DDD  
-Cloud & Kubernetes • Engenharia orientada a performance • Observabilidade  
-Integrações críticas (Stripe, Supabase) • IA aplicada (ML.NET, Computer Vision)  
-API-first design • Sistemas orientados a eventos • Liderança técnica end-to-end
+Founder of **Cortex Tech**, an ecosystem focused on artificial intelligence, accessibility, and technological innovation with a real-world impact vision.
 
 ---
 
-### 🚀 Tech Stack & Proven Impact
+### Specialties
+
+```
+Mobile (High-Performance)    .NET MAUI · React Native · Offline-first · Data sync
+Backend & Architecture       ASP.NET Core · Clean Architecture · CQRS · DDD
+Cloud & Infrastructure       Docker · Kubernetes · AWS · CI/CD · Observability
+Frontend                     Blazor WASM · React · Next.js · Tailwind CSS
+AI & Applied Intelligence    ML.NET · Computer Vision
+Integrations & Payments      Stripe · Supabase · Event-driven · API-first design
+Leadership                   End-to-end technical ownership · System design
+```
+
+---
+
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,python,nextjs,tailwind,html,css,docker,kubernetes,aws,postgres,git,figma,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,python,nextjs,tailwind,html,css,docker,kubernetes,aws,postgres,git,figma,postman&perline=9" />
 </p>
 
-<details>
-<summary><b>📊 Performance, Scale & Metrics</b></summary>
+---
 
+<details>
+<summary><b>📊 Engineering Depth & Impact Areas</b></summary>
 <br/>
 
-### ⚙️ Backend & APIs
-- ⚡ APIs em **ASP.NET Core (.NET 10)** com foco em **baixa latência**
-- 🚀 Otimização de tempo de resposta (caching, tuning, redução de overhead)
-- 🧠 Arquitetura escalável com **Clean Architecture + CQRS**
-- 🔐 Autenticação robusta (JWT, controle de acesso)
+#### ⚙️ Backend & APIs
+- APIs in **ASP.NET Core (.NET 10)** optimized for **low latency**
+- Scalable architecture with **Clean Architecture + CQRS**
+- Robust authentication (JWT, role-based access control)
+- Response time optimization via caching, tuning, and overhead reduction
 
----
+#### 📱 Mobile Systems (Core Strength)
+- **Offline-first** architecture in production
+- Resilient sync (retry, fallback, eventual consistency)
+- UI thread optimization and memory management
+- ANR reduction and rendering fluidity under load
 
-### 🧠 Performance & Optimization
-- 🔥 Redução de gargalos em aplicações mobile e backend
-- 🎯 Otimização de rendering e processamento em cenários críticos
-- ⚡ Melhoria de responsividade e UX sob carga
-- 🧵 Controle de concorrência e eficiência de recursos
+#### ☁️ Cloud & Infrastructure
+- Automated CI/CD pipelines (build → test → deploy)
+- Containerization with Docker + Kubernetes
+- Observability: structured logging, metrics, distributed tracing
+- AWS deployment and operations
 
----
-
-### 📱 Mobile Systems (Core Strength)
-- 📡 Arquitetura **offline-first** em produção
-- 🔄 Sincronização resiliente (retry, fallback, consistência eventual)
-- 🧵 Otimização de UI thread e uso de memória
-- 📉 Redução de travamentos (ANR) e melhoria de fluidez
-
----
-
-### ☁️ Cloud & Infrastructure
-- 🚀 CI/CD automatizado (build, test, deploy)
-- 📦 Containerização com Docker + Kubernetes
-- 📊 Observabilidade: logging, métricas, tracing
-- 🌍 Deploy e operação em AWS
-
----
-
-### 💰 Business Impact
-- 💳 Sistemas com **pagamentos reais (Stripe)**
-- 📈 Produtos com receita recorrente
-- 👥 Usuários ativos em produção
-- ⚙️ Integrações críticas funcionando em escala
-
----
-
-### 📊 Key Indicators (Engineering Focus)
-- 📉 ↓ Latência em operações críticas  
-- 📈 ↑ Performance de rendering mobile  
-- 🛡️ ↓ Falhas em ambientes offline  
-- 🔄 ↑ Confiabilidade de sincronização  
-- 💰 ↑ Conversão com pagamentos  
+#### 💰 Business Impact
+- Payment systems with **Stripe** processing real transactions
+- Products with recurring revenue and active users in production
+- Critical integrations operating at scale
 
 </details>
+
 ---
 
 ### Architecture & Engineering Principles
 
-```text
-Distributed Systems      │  Clean Architecture      │  Domain-Driven Design
-API-First Design         │  Event-Driven Workflows  │  Scalable System Design
-Authentication & Security│  JWT (ES256)             │  Row-Level Security
-Mobile Architecture      │  MVVM                    │  Offline-First Systems
-Cloud & Delivery         │  Docker / Kubernetes     │  CI/CD Pipelines
-Payments & Integrations  │  Webhooks                │  Credit-Based Billing
-Performance Engineering  │  Caching Strategies      │  Observability
+```
+Distributed Systems       │  Clean Architecture       │  Domain-Driven Design
+API-First Design          │  Event-Driven Workflows   │  Scalable System Design
+Authentication & Security │  JWT (ES256)              │  Row-Level Security
+Mobile Architecture       │  MVVM                     │  Offline-First Systems
+Cloud & Delivery          │  Docker / Kubernetes      │  CI/CD Pipelines
+Payments & Integrations   │  Webhooks                 │  Credit-Based Billing
+Performance Engineering   │  Caching Strategies       │  Observability
+```
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cardos0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="170px" />
-  
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardos0s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170px" />
 </p>
 
