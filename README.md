@@ -16,7 +16,7 @@
 
 Senior Software Engineer operating at Tech Lead level, specialized in distributed systems architecture and high-performance mobile & SaaS applications in production.
 
-Proven track record leading end-to-end solution delivery — from architectural decisions to cloud operations — focused on scalability, low latency, resilience, and direct revenue generation. My role extends beyond implementation: I drive critical engineering decisions, design sustainable systems, and raise the technical bar across products and teams.
+Proven track record leading end-to-end solution delivery, from architectural decisions to cloud operations, focused on scalability, low latency, resilience, and direct revenue generation. My role extends beyond implementation: I drive critical engineering decisions, design sustainable systems, and raise the technical bar across products and teams.
 
 Strong expertise in **cross-platform mobile engineering** with **.NET MAUI** and **React Native**, building robust, performant applications for real-world scenarios including **offline-first architectures**, efficient data synchronization, memory optimization, and smooth UI under heavy load.
 
